@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is one of the stage 3 projects built by Team Muses. A Net Worth Calculator web app. This is not just an average Networth calculator 🙂. Our Networth calculator enables users to login an register if they don't have an account. Users can add several assets and liabilities they have and they will be supplied with the following information on clicking on "calculate" or clicking on the link to the  statistics page.
+This is one of the stage 3 projects built by Team Muses. A Net Worth Calculator web app. This is not just an average Networth calculator 🙂. Our Networth calculator enables users to login and register.If they don't have an account,users can add several assets and liabilities they have and they will be supplied with the following information on clicking on "calculate" or clicking on the link to the  statistics page.
 
 - The total sum of their assets
 - The total sum of their liabilities
